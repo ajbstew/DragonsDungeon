@@ -1,0 +1,28 @@
+DRAGON'S DUNGEON
+	
+---------------------
+---- Patch 1.0.0 ----
+---------------------
+*Fixed the font issue where m and o were the same character for a font
+*Increased the price of Ring of Power
+*Increaed the amount of starting potions from 5 to 10
+*Newly added party members should now have full HP and MP when they join the party
+*changed phrases for when an escape is initiated ans when one fails
+*Slowed the speed of scrolling text
+*Lowered amount of starting gold
+*Lowered amount of MP the main character has.
+*All items now have tooltips
+*Changed where the player stands after changing maps
+*The lever no longer disapears after it is activated
+*Updated Credits
+*Lowered Optional Boss #2's physical defense
+*Increased attack of Ice Bats
+*Lowered the height ghosts float
+*Changed certain mage spells into specials
+*Added WASD controls and changed the page down key from W to E
+*Hero class: Significantly reduced MP
+*Spell Sword class: removed attacks that were similar to the Hero class and added
+ new attacks that add debuffs to opponents.
+*Mage class: Special abilities now show in the special tab
+*Fire is now an AOE
+*Added tooltips to skills

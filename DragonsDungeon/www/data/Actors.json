@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Main_Battler","characterIndex":5,"characterName":"CustomCharacters1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Main","traits":[],"initialLevel":1,"maxLevel":10,"name":"Traveler","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"AngelicaBattler","characterIndex":1,"characterName":"CustomCharacters1","classId":3,"equips":[12,0,2,3,4],"faceIndex":1,"faceName":"Angelica","traits":[],"initialLevel":1,"maxLevel":10,"name":"Angelica","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"StringInput","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"SaphBattler","characterIndex":2,"characterName":"CustomCharacters1","classId":2,"equips":[3,0,2,5,0],"faceIndex":0,"faceName":"Saph","traits":[],"initialLevel":1,"maxLevel":10,"name":"Saphire","nickname":"","note":"","profile":""}
+]
